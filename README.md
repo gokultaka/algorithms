@@ -7,6 +7,8 @@ Tags : Tries
 Algorithms/ spojProblems
 1)InversionCount -> http://www.spoj.com/problems/INVCNT/
 Tags : Binary Index tree
+2) Yodaness - > http://www.spoj.com/problems/YODANESS/
+Tags : Binary Index tree ( Similar to InversionCount)
 
 Repo of Implementations
 
